@@ -40,7 +40,7 @@ To build the library
 
     $ cd libafsplit
     $ make
-    $ cp libafsplit.so $GEM_HOME...
+    $ cp libafsplit.so /usr/lib
 
 The official version is [AFsplitter-0.1.tar.bz2][4] ( SHA1: baf2857b3c87f369a36a67bb8603a6c417eba43e)
 
